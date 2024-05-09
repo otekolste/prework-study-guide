@@ -20,5 +20,4 @@ N/A
 
 ## License
 
-The license is in the repo.
-
+The license can be found in the repo.
